@@ -10,7 +10,7 @@ Wilson Chen:
 
 Anh Dang Phuong:
 
-Hugo Fuhrer:
+Hugo Fuhrer: A line about myself.
 
 Zihan Guo:
 
